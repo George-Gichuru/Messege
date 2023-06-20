@@ -4,7 +4,7 @@ import { Figtree } from 'next/font/google'
 const font = Figtree ({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Messanger-Clone',
+  title: 'Messenger-Clone',
   description: 'Messaging App',
 }
 

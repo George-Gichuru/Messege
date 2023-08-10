@@ -23,3 +23,5 @@ export default async function handler(
   const authResponse = pusherServer.authorizeChannel(socketId, channel, data);
   return response.send(authResponse);
 };
+
+// pusher

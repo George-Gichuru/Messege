@@ -42,4 +42,4 @@ const ConversationId = async ({ params }: {params: IParams}) => {
     )
 }
 
-export default ConversationId;
+export default ConversationId
